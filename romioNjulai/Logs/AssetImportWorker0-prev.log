@@ -1,0 +1,1446 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 24526 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity Editors\2020.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/intnardes/romioNjulai
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59334
+Successfully changed project path to: D:/intnardes/romioNjulai
+D:/intnardes/romioNjulai
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 50.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity Editors/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/intnardes/romioNjulai/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   
+    VRAM:     8152 MB
+    Driver:   27.20.12029.1000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity Editors/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity Editors/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity Editors/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56416
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity Editors/2020.2.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity Editors/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002077 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 52.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.918 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 52.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.021 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3591 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.4 MB.
+System memory in use after: 161.5 MB.
+
+Unloading 135 unused Assets to reduce memory usage. Loaded Objects now: 4024.
+Total: 2.813600 ms (FindLiveObjects: 0.421200 ms CreateObjectMapping: 0.092000 ms MarkObjects: 2.083500 ms  DeleteObjects: 0.216100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/day1/mercutioDay1.unity
+  artifactKey: Guid(9016e5e011fa58d42998748984e07f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/mercutioDay1.unity using Guid(9016e5e011fa58d42998748984e07f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72c52ddd3b14fd802c6b871f4b4c863') in 0.010920 seconds
+  Import took 0.015879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.674488 seconds.
+  path: Assets/Scenes/day1/capuletDay1 1.unity
+  artifactKey: Guid(f47d80b4cab641a4cae56ad3918df855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/capuletDay1 1.unity using Guid(f47d80b4cab641a4cae56ad3918df855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c85674b3ae2f086bc8431a0d41343f71') in 0.005188 seconds
+  Import took 0.010710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.042613 seconds.
+  path: Assets/Scenes/day1/capuletDay1 1.unity
+  artifactKey: Guid(f0d88add9f3bcd346be1316007594382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/capuletDay1 1.unity using Guid(f0d88add9f3bcd346be1316007594382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838ad7ada300803a22afdfe4c33fe960') in 0.004806 seconds
+  Import took 0.009899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.717646 seconds.
+  path: Assets/Scenes/day2
+  artifactKey: Guid(0fdc362cce4cafc4d8433bb59c68c066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2 using Guid(0fdc362cce4cafc4d8433bb59c68c066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1ec5925ab420f01ee6d20862691d0e') in 0.004866 seconds
+  Import took 0.009907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.243228 seconds.
+  path: Assets/Scenes/day2 1
+  artifactKey: Guid(8769b2e322ce50c42a07441686264e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2 1 using Guid(8769b2e322ce50c42a07441686264e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058a35370619fd6605a02ffef11a03ac') in 0.004540 seconds
+  Import took 0.009600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.490040 seconds.
+  path: Assets/Scenes/day2 2
+  artifactKey: Guid(6de4d1473c45f8e49b5a5cadfba9cab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2 2 using Guid(6de4d1473c45f8e49b5a5cadfba9cab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe535882c1af9e74a2b9c196c6e9e395') in 0.004494 seconds
+  Import took 0.009557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.589381 seconds.
+  path: Assets/Scenes/day4
+  artifactKey: Guid(6de4d1473c45f8e49b5a5cadfba9cab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4 using Guid(6de4d1473c45f8e49b5a5cadfba9cab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89f55f015eb469d32192520157b528b') in 0.004738 seconds
+  Import took 0.009931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.790166 seconds.
+  path: Assets/Scenes/day3
+  artifactKey: Guid(8769b2e322ce50c42a07441686264e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3 using Guid(8769b2e322ce50c42a07441686264e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee4b093861a187fee649c0f7172458f6') in 0.004602 seconds
+  Import took 0.009689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.888720 seconds.
+  path: Assets/Scenes/day2/capuletDay2.unity
+  artifactKey: Guid(f0d88add9f3bcd346be1316007594382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capuletDay2.unity using Guid(f0d88add9f3bcd346be1316007594382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0113e8e3e52b600f59b40f28194d3e3') in 0.004884 seconds
+  Import took 0.010017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.033597 seconds.
+  path: Assets/Scenes/day2/capuletDay2 1.unity
+  artifactKey: Guid(17850e6ab3f0c354b9dabfa54a39cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capuletDay2 1.unity using Guid(17850e6ab3f0c354b9dabfa54a39cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e43afb7b5fde24a1b80b002664d3f3') in 0.004904 seconds
+  Import took 0.010320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.105854 seconds.
+  path: Assets/Scenes/day2/capuletDay2 2.unity
+  artifactKey: Guid(a34500f3c49392e4a8603e23294caf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capuletDay2 2.unity using Guid(a34500f3c49392e4a8603e23294caf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b958667afd5e94b84eab2a11c93561c') in 0.004966 seconds
+  Import took 0.009990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.374149 seconds.
+  path: Assets/Scenes/day2/mercutioDay2.unity
+  artifactKey: Guid(a34500f3c49392e4a8603e23294caf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/mercutioDay2.unity using Guid(a34500f3c49392e4a8603e23294caf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7f0fb7039cea516a3fa16a30812775') in 0.004998 seconds
+  Import took 0.010026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.126713 seconds.
+  path: Assets/Scenes/day2/montagueDay2.unity
+  artifactKey: Guid(17850e6ab3f0c354b9dabfa54a39cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/montagueDay2.unity using Guid(17850e6ab3f0c354b9dabfa54a39cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7965c3f503199e9d321184c621855826') in 0.004984 seconds
+  Import took 0.010363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.181037 seconds.
+  path: Assets/Scenes/day2/montagueDay2 1.unity
+  artifactKey: Guid(ee6a5ef49b9919a4aae4643f78797022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/montagueDay2 1.unity using Guid(ee6a5ef49b9919a4aae4643f78797022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a4e73e303556dbd408c75be5a93102') in 0.004755 seconds
+  Import took 0.009865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.388533 seconds.
+  path: Assets/Scenes/day2/junkyardCapulet.unity
+  artifactKey: Guid(ee6a5ef49b9919a4aae4643f78797022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/junkyardCapulet.unity using Guid(ee6a5ef49b9919a4aae4643f78797022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5db991b579ad40562bc80d71f42da8') in 0.005071 seconds
+  Import took 0.010180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.904419 seconds.
+  path: Assets/Scenes/day2/junkyardCapulet 1.unity
+  artifactKey: Guid(415614898cc671d4890c63fc2007c468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/junkyardCapulet 1.unity using Guid(415614898cc671d4890c63fc2007c468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '404cb46daadba5a9117855e3626c3d98') in 0.005036 seconds
+  Import took 0.010241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.407500 seconds.
+  path: Assets/Scenes/day2/junkyardMontague.unity
+  artifactKey: Guid(415614898cc671d4890c63fc2007c468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/junkyardMontague.unity using Guid(415614898cc671d4890c63fc2007c468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a852d8fb7ed0041942c3f9b60ce186d') in 0.004852 seconds
+  Import took 0.009996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.814615 seconds.
+  path: Assets/Scenes/day2/capuletDay2 1.unity
+  artifactKey: Guid(473682c447d535a4ab80f3cdd2a3025e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capuletDay2 1.unity using Guid(473682c447d535a4ab80f3cdd2a3025e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd7a797be9f8d433abe72080f65f337') in 0.001944 seconds
+  Import took 0.015475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.447059 seconds.
+  path: Assets/Scenes/day2/ruinsDay2.unity
+  artifactKey: Guid(473682c447d535a4ab80f3cdd2a3025e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/ruinsDay2.unity using Guid(473682c447d535a4ab80f3cdd2a3025e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f75ecb99af313c74cb08cae7ecf579e8') in 0.005027 seconds
+  Import took 0.093346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.075849 seconds.
+  path: Assets/Scenes/day2/ruinsDay2 1.unity
+  artifactKey: Guid(8a49e5e41be92814f87fb93831705748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/ruinsDay2 1.unity using Guid(8a49e5e41be92814f87fb93831705748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26cf5cfa9d137a5a61e696b4f0c4f405') in 0.005949 seconds
+  Import took 0.017248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.897310 seconds.
+  path: Assets/Scenes/day2/missileSiloDay2.unity
+  artifactKey: Guid(8a49e5e41be92814f87fb93831705748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/missileSiloDay2.unity using Guid(8a49e5e41be92814f87fb93831705748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790accf17a6b7586a9b77a1d2c25ed00') in 0.005183 seconds
+  Import took 0.010359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.549426 seconds.
+  path: Assets/Scenes/day2/ruinsDay2 1.unity
+  artifactKey: Guid(73abaf88998a556459d8b4e4683c1d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/ruinsDay2 1.unity using Guid(73abaf88998a556459d8b4e4683c1d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69342139b24aaf7807d033f7579d225b') in 0.001893 seconds
+  Import took 0.012159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.079919 seconds.
+  path: Assets/Scenes/day3/ruinsDay3.unity
+  artifactKey: Guid(73abaf88998a556459d8b4e4683c1d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/ruinsDay3.unity using Guid(73abaf88998a556459d8b4e4683c1d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf2b8765a015ef5c5156ff0a74f6dc5') in 0.005019 seconds
+  Import took 0.010517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.231603 seconds.
+  path: Assets/Scenes/day3/ruinsDay3 1.unity
+  artifactKey: Guid(a7309cf08882c394aa6c3d7334910ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/ruinsDay3 1.unity using Guid(a7309cf08882c394aa6c3d7334910ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e906646b3c2bef1ea8e56b2ef4d269') in 0.004770 seconds
+  Import took 0.018394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.846348 seconds.
+  path: Assets/Scenes/day3/montagueDay3.unity
+  artifactKey: Guid(a7309cf08882c394aa6c3d7334910ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/montagueDay3.unity using Guid(a7309cf08882c394aa6c3d7334910ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05fe642cddea4e339c103f5a797f0d08') in 0.005803 seconds
+  Import took 0.011484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.049750 seconds.
+  path: Assets/Scenes/day3/ruinsDay3 1.unity
+  artifactKey: Guid(178cdb74df3bf244288465d0076bf85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/ruinsDay3 1.unity using Guid(178cdb74df3bf244288465d0076bf85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b353deea4c7799c781431344853907') in 0.001815 seconds
+  Import took 0.008606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.703614 seconds.
+  path: Assets/Scenes/day3/missileSiloDay3.unity
+  artifactKey: Guid(178cdb74df3bf244288465d0076bf85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/missileSiloDay3.unity using Guid(178cdb74df3bf244288465d0076bf85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067e9d3ee44ebce08793e96bf2a7404f') in 0.005280 seconds
+  Import took 0.010925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.018774 seconds.
+  path: Assets/Scenes/day3/ruinsDay3 1.unity
+  artifactKey: Guid(26030ac2f3c7a4947949b868a5971cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/ruinsDay3 1.unity using Guid(26030ac2f3c7a4947949b868a5971cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282567be95e918123b27e9c0662357ce') in 0.001864 seconds
+  Import took 0.022587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.348352 seconds.
+  path: Assets/Scenes/day3/mercutioDay3.unity
+  artifactKey: Guid(26030ac2f3c7a4947949b868a5971cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/mercutioDay3.unity using Guid(26030ac2f3c7a4947949b868a5971cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1943682f618695b74a6d695e0dc59f9a') in 0.005025 seconds
+  Import took 0.025660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.061152 seconds.
+  path: Assets/Scenes/day2/capuletDay2 1.unity
+  artifactKey: Guid(51a2125c3b52b5b4bb88e391336dbc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capuletDay2 1.unity using Guid(51a2125c3b52b5b4bb88e391336dbc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac729cff8747f5b9598e1952a90dd8e') in 0.001819 seconds
+  Import took 0.105246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.430851 seconds.
+  path: Assets/Scenes/day2/capuletEveningDay2.unity
+  artifactKey: Guid(51a2125c3b52b5b4bb88e391336dbc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capuletEveningDay2.unity using Guid(51a2125c3b52b5b4bb88e391336dbc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84c872c1b2c19368ae8f23bd7522291') in 0.005024 seconds
+  Import took 0.019728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.699869 seconds.
+  path: Assets/Scenes/day2/montagueDay2 1.unity
+  artifactKey: Guid(308b04e927ff6e04b9157e0731b853c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/montagueDay2 1.unity using Guid(308b04e927ff6e04b9157e0731b853c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa65bb9a8067165f676ae0237f970dd') in 0.002027 seconds
+  Import took 0.007526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.383130 seconds.
+  path: Assets/Scenes/day2/montagueEveningDay2.unity
+  artifactKey: Guid(308b04e927ff6e04b9157e0731b853c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/montagueEveningDay2.unity using Guid(308b04e927ff6e04b9157e0731b853c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '814bff04aa9f5dab2e0d085125279a55') in 0.004909 seconds
+  Import took 0.027583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.472446 seconds.
+  path: Assets/Scenes/day3/montagueDay3 1.unity
+  artifactKey: Guid(5ce1b31edc6f5d44b9fafed1af16c7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/montagueDay3 1.unity using Guid(5ce1b31edc6f5d44b9fafed1af16c7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf863cf6d012efa677701254ac1cbc6') in 0.004740 seconds
+  Import took 0.010432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.706416 seconds.
+  path: Assets/Scenes/day3/capuletEveningDay3.unity
+  artifactKey: Guid(5ce1b31edc6f5d44b9fafed1af16c7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/capuletEveningDay3.unity using Guid(5ce1b31edc6f5d44b9fafed1af16c7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0772f8d1efb2bb4377135fca112acdd') in 0.004844 seconds
+  Import took 0.010834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.248774 seconds.
+  path: Assets/Scenes/day3/montagueEveningDay3.unity
+  artifactKey: Guid(a7309cf08882c394aa6c3d7334910ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/montagueEveningDay3.unity using Guid(a7309cf08882c394aa6c3d7334910ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7045875c3776897f1e882a2277b70715') in 0.005198 seconds
+  Import took 0.020769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.943232 seconds.
+  path: Assets/Scenes/day3/montagueDay3 1.unity
+  artifactKey: Guid(d099880dc1aaf644cb886f67b3d20444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/montagueDay3 1.unity using Guid(d099880dc1aaf644cb886f67b3d20444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9620c611f5266ff7699b825137286123') in 0.001836 seconds
+  Import took 0.007315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.928725 seconds.
+  path: Assets/Scenes/day3/montagueEveningDay3 1.unity
+  artifactKey: Guid(d099880dc1aaf644cb886f67b3d20444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/montagueEveningDay3 1.unity using Guid(d099880dc1aaf644cb886f67b3d20444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140a2550857ddb732a0c4bbcaad8cf1b') in 0.005141 seconds
+  Import took 0.016138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.618400 seconds.
+  path: Assets/Scenes/day3/montagueEveningDay3.unity
+  artifactKey: Guid(d099880dc1aaf644cb886f67b3d20444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/montagueEveningDay3.unity using Guid(d099880dc1aaf644cb886f67b3d20444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ee6c457e599d2106e705c066405e40') in 0.001931 seconds
+  Import took 0.006779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.469302 seconds.
+  path: Assets/Scenes/day3/missileSiloDay3 1.unity
+  artifactKey: Guid(63de777abc121e048a89ee2074d97fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/missileSiloDay3 1.unity using Guid(63de777abc121e048a89ee2074d97fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3304ea87be2fa1ec73ad39663240509c') in 0.004874 seconds
+  Import took 0.014814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.057053 seconds.
+  path: Assets/Scenes/day3/missileSiloDay3 2.unity
+  artifactKey: Guid(98a43d23c3608fc4d8e032c9014666fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/missileSiloDay3 2.unity using Guid(98a43d23c3608fc4d8e032c9014666fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9b834f781584e3277825ac979a1074') in 0.005325 seconds
+  Import took 0.012283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.662798 seconds.
+  path: Assets/Scenes/day3/missileSiloCapuletDay3.unity
+  artifactKey: Guid(63de777abc121e048a89ee2074d97fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/missileSiloCapuletDay3.unity using Guid(63de777abc121e048a89ee2074d97fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea31614645d55ccaad66e6be9925afa6') in 0.005090 seconds
+  Import took 0.067823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.466771 seconds.
+  path: Assets/Scenes/day3/missileSiloMontagueDay3.unity
+  artifactKey: Guid(98a43d23c3608fc4d8e032c9014666fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/missileSiloMontagueDay3.unity using Guid(98a43d23c3608fc4d8e032c9014666fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e2a644c39fa9eda8e37dfbf8c4a515') in 0.005068 seconds
+  Import took 0.010184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.607226 seconds.
+  path: Assets/Scenes/day3/missileSiloMercutioDay3.unity
+  artifactKey: Guid(178cdb74df3bf244288465d0076bf85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/missileSiloMercutioDay3.unity using Guid(178cdb74df3bf244288465d0076bf85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1836b7cab843b91bbcefe2dd57bf15b1') in 0.004914 seconds
+  Import took 0.012360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.437462 seconds.
+  path: Assets/Scenes/day2/ruinsDay2 1.unity
+  artifactKey: Guid(33b344f86c8be20469228c8cbe86d947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/ruinsDay2 1.unity using Guid(33b344f86c8be20469228c8cbe86d947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8849a02a2fefbfea3fbbdde0ee449e0') in 0.001863 seconds
+  Import took 0.039614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.603991 seconds.
+  path: Assets/Scenes/day2/missileSiloDay2 1.unity
+  artifactKey: Guid(3e393823a9f509c46b99cf3485bb7f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/missileSiloDay2 1.unity using Guid(3e393823a9f509c46b99cf3485bb7f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a26358e65cda22d39776f4d97247da9') in 0.005024 seconds
+  Import took 0.020179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.221327 seconds.
+  path: Assets/Scenes/day2/missileSiloMontagueDay2.unity
+  artifactKey: Guid(3e393823a9f509c46b99cf3485bb7f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/missileSiloMontagueDay2.unity using Guid(3e393823a9f509c46b99cf3485bb7f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5509bd9343bb7ec65385d77d2cf168') in 0.005898 seconds
+  Import took 0.010964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.173235 seconds.
+  path: Assets/Scenes/day2/ruinsCapuletDay2.unity
+  artifactKey: Guid(33b344f86c8be20469228c8cbe86d947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/ruinsCapuletDay2.unity using Guid(33b344f86c8be20469228c8cbe86d947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650f2522d9c945b2171ede83708d80cc') in 0.005099 seconds
+  Import took 0.030350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.618200 seconds.
+  path: Assets/Scenes/day3/ruinsDay3 1.unity
+  artifactKey: Guid(2118918ee1434f64c9ffcd27ca9216d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/ruinsDay3 1.unity using Guid(2118918ee1434f64c9ffcd27ca9216d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f530e6fcc8bcfec837f9b98ecd7e119f') in 0.001761 seconds
+  Import took 0.006541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.514280 seconds.
+  path: Assets/Scenes/day3/ruinsCapuletDay3.unity
+  artifactKey: Guid(2118918ee1434f64c9ffcd27ca9216d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/ruinsCapuletDay3.unity using Guid(2118918ee1434f64c9ffcd27ca9216d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6c490eb8a63ccd7d2749dbd151b21c') in 0.005066 seconds
+  Import took 0.018014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.234451 seconds.
+  path: Assets/Scenes/day1/capulet_capuletBase_Day1.unity
+  artifactKey: Guid(d38e2082ae65c3f4584562e4415ea85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/capulet_capuletBase_Day1.unity using Guid(d38e2082ae65c3f4584562e4415ea85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdfe362b0227f5a7d21a88047de044d1') in 0.005340 seconds
+  Import took 0.011300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.208573 seconds.
+  path: Assets/Scenes/day1/mercutio_mercutioHut_Day1.unity
+  artifactKey: Guid(9016e5e011fa58d42998748984e07f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/mercutio_mercutioHut_Day1.unity using Guid(9016e5e011fa58d42998748984e07f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06cdae215f49de9406cffc62f694ced4') in 0.005041 seconds
+  Import took 0.010187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.105642 seconds.
+  path: Assets/Scenes/day1/montague_montagueBase_Day1.unity
+  artifactKey: Guid(44c86865f59394c48a47848965d8fbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/montague_montagueBase_Day1.unity using Guid(44c86865f59394c48a47848965d8fbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd332630c447d6c2d2420d38c3fd4a119') in 0.005007 seconds
+  Import took 0.010280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.877093 seconds.
+  path: Assets/Scenes/day2/capulet_capuletBase_Day2.unity
+  artifactKey: Guid(f0d88add9f3bcd346be1316007594382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capulet_capuletBase_Day2.unity using Guid(f0d88add9f3bcd346be1316007594382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd518525bae9333f76e912c7bc6a600bc') in 0.005778 seconds
+  Import took 0.039461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.517726 seconds.
+  path: Assets/Scenes/day2/capulet_capuletBaseEvening_Day2.unity
+  artifactKey: Guid(51a2125c3b52b5b4bb88e391336dbc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capulet_capuletBaseEvening_Day2.unity using Guid(51a2125c3b52b5b4bb88e391336dbc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c785d90e12c431e9474b672415acd4e') in 0.005168 seconds
+  Import took 0.015329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.193552 seconds.
+  path: Assets/Scenes/day2/capulet_junkyard.unity
+  artifactKey: Guid(ee6a5ef49b9919a4aae4643f78797022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capulet_junkyard.unity using Guid(ee6a5ef49b9919a4aae4643f78797022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d22ac1849c01c49a90b3a9c6848807') in 0.004897 seconds
+  Import took 0.009939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.797276 seconds.
+  path: Assets/Scenes/day2/montague_junkyard_day2.unity
+  artifactKey: Guid(415614898cc671d4890c63fc2007c468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/montague_junkyard_day2.unity using Guid(415614898cc671d4890c63fc2007c468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd897ece01b628d93fafa321718bc9b1') in 0.005001 seconds
+  Import took 0.012590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.829706 seconds.
+  path: Assets/Scenes/day2/capulet_junkyard_day2.unity
+  artifactKey: Guid(ee6a5ef49b9919a4aae4643f78797022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capulet_junkyard_day2.unity using Guid(ee6a5ef49b9919a4aae4643f78797022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f5b8056fc8956234d6c8555155835d') in 0.005615 seconds
+  Import took 0.010851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.670406 seconds.
+  path: Assets/Scenes/day2/mercutio_mercutioHut_Day2.unity
+  artifactKey: Guid(a34500f3c49392e4a8603e23294caf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/mercutio_mercutioHut_Day2.unity using Guid(a34500f3c49392e4a8603e23294caf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0e33ed7c74f8b51754dee6dd7d50c1') in 0.004973 seconds
+  Import took 0.010435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.412903 seconds.
+  path: Assets/Scenes/day2/mercutio_mercutioHut_day2.unity
+  artifactKey: Guid(a34500f3c49392e4a8603e23294caf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/mercutio_mercutioHut_day2.unity using Guid(a34500f3c49392e4a8603e23294caf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c7047adf404944745d87c9d53ccc53') in 0.005810 seconds
+  Import took 0.010999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.160001 seconds.
+  path: Assets/Scenes/day2/capulet_capuletBaseEvening_day2.unity
+  artifactKey: Guid(51a2125c3b52b5b4bb88e391336dbc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capulet_capuletBaseEvening_day2.unity using Guid(51a2125c3b52b5b4bb88e391336dbc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87396b6205c5e9787ccd7df38c45bb50') in 0.005677 seconds
+  Import took 0.044588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.634614 seconds.
+  path: Assets/Scenes/day2/capulet_capuletBase_day2.unity
+  artifactKey: Guid(f0d88add9f3bcd346be1316007594382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capulet_capuletBase_day2.unity using Guid(f0d88add9f3bcd346be1316007594382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83267c79d275d868d367fa0528e6ea93') in 0.005052 seconds
+  Import took 0.013947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.803563 seconds.
+  path: Assets/Scenes/day2/knowledgeable_missileSilo_day2.unity
+  artifactKey: Guid(8a49e5e41be92814f87fb93831705748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/knowledgeable_missileSilo_day2.unity using Guid(8a49e5e41be92814f87fb93831705748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73841ae876eac596cb3914cc181efeda') in 0.005036 seconds
+  Import took 0.010724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.092001 seconds.
+  path: Assets/Scenes/day2/montague_missileSilo_day2.unity
+  artifactKey: Guid(3e393823a9f509c46b99cf3485bb7f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/montague_missileSilo_day2.unity using Guid(3e393823a9f509c46b99cf3485bb7f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46ca968d5e08379da7c0061b79653a6') in 0.004948 seconds
+  Import took 0.019236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.811831 seconds.
+  path: Assets/Scenes/day2/montague_montagueBase_day2.unity
+  artifactKey: Guid(17850e6ab3f0c354b9dabfa54a39cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/montague_montagueBase_day2.unity using Guid(17850e6ab3f0c354b9dabfa54a39cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '923d35cebe00251c9c82eae5defa3c14') in 0.005111 seconds
+  Import took 0.010436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.340123 seconds.
+  path: Assets/Scenes/day2/montague_montagueBaseEvening_day2.unity
+  artifactKey: Guid(308b04e927ff6e04b9157e0731b853c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/montague_montagueBaseEvening_day2.unity using Guid(308b04e927ff6e04b9157e0731b853c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b7040dd0b5de1e0b18e56b61c4361f') in 0.005788 seconds
+  Import took 0.011160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.261846 seconds.
+  path: Assets/Scenes/day2/capulet_ruins_day2.unity
+  artifactKey: Guid(33b344f86c8be20469228c8cbe86d947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/capulet_ruins_day2.unity using Guid(33b344f86c8be20469228c8cbe86d947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ab4145a0ef4aeb7dc79640dd2461459') in 0.005488 seconds
+  Import took 0.028813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.053789 seconds.
+  path: Assets/Scenes/day2/knowledgeable_ruins_day2.unity
+  artifactKey: Guid(473682c447d535a4ab80f3cdd2a3025e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/knowledgeable_ruins_day2.unity using Guid(473682c447d535a4ab80f3cdd2a3025e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb58352ceb774067c7fe168fb313eba2') in 0.005065 seconds
+  Import took 0.010188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.911353 seconds.
+  path: Assets/Scenes/day1/capulet_capuletBase_day1.unity
+  artifactKey: Guid(d38e2082ae65c3f4584562e4415ea85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/capulet_capuletBase_day1.unity using Guid(d38e2082ae65c3f4584562e4415ea85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960a66b8defb6bfbe9ea36f489273489') in 0.005232 seconds
+  Import took 0.010421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.550643 seconds.
+  path: Assets/Scenes/day1/mercutio_mercutioHut_day1.unity
+  artifactKey: Guid(9016e5e011fa58d42998748984e07f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/mercutio_mercutioHut_day1.unity using Guid(9016e5e011fa58d42998748984e07f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd149b71b34196a6c439ccffdaefd159') in 0.004897 seconds
+  Import took 0.017794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.933060 seconds.
+  path: Assets/Scenes/day1/montague_montagueBase_day1.unity
+  artifactKey: Guid(44c86865f59394c48a47848965d8fbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/montague_montagueBase_day1.unity using Guid(44c86865f59394c48a47848965d8fbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9fef33d7eca8c6d1630a2cfcf42ea8f') in 0.005269 seconds
+  Import took 0.027901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 797.642877 seconds.
+  path: Assets/Scenes/day2/mercutio_mercutioHut_day2 1.unity
+  artifactKey: Guid(64421a1052fa58c4d87457f9aaeabaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/mercutio_mercutioHut_day2 1.unity using Guid(64421a1052fa58c4d87457f9aaeabaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e009de7eb47838543a27a4c14e81b5fa') in 0.005396 seconds
+  Import took 0.013989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.716617 seconds.
+  path: Assets/Scenes/day2/mercutio_mercutioHut_day2 2.unity
+  artifactKey: Guid(19454bcb61edf67479ac6d2bbc5dca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/mercutio_mercutioHut_day2 2.unity using Guid(19454bcb61edf67479ac6d2bbc5dca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cc73a591ae52c86a3c04d30b14106b') in 0.005120 seconds
+  Import took 0.025977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.969012 seconds.
+  path: Assets/Scenes/day2/mercutio_capuletBase_day2.unity
+  artifactKey: Guid(19454bcb61edf67479ac6d2bbc5dca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/mercutio_capuletBase_day2.unity using Guid(19454bcb61edf67479ac6d2bbc5dca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311b4da5987c025bcaf31e1b079675f5') in 0.005257 seconds
+  Import took 0.011008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.070273 seconds.
+  path: Assets/Scenes/day2/mercutio_montagueBase_day2.unity
+  artifactKey: Guid(64421a1052fa58c4d87457f9aaeabaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/mercutio_montagueBase_day2.unity using Guid(64421a1052fa58c4d87457f9aaeabaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d4103f396c7992e1db01ca2c94156c') in 0.004931 seconds
+  Import took 0.012136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.999564 seconds.
+  path: Assets/Scenes/day1/mercutio_mercutioHut_day1 1.unity
+  artifactKey: Guid(c3861532ad0325146b10e40e25fa07dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/mercutio_mercutioHut_day1 1.unity using Guid(c3861532ad0325146b10e40e25fa07dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beabb1156a43bc2d777c70715baa9d33') in 0.004641 seconds
+  Import took 0.033361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.472404 seconds.
+  path: Assets/Scenes/day1/mercutio_mercutioHut_day1 2.unity
+  artifactKey: Guid(261ea1f8f1be9ba4a916e0e361252a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/mercutio_mercutioHut_day1 2.unity using Guid(261ea1f8f1be9ba4a916e0e361252a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b933154a617d0952bbda50cd7c291be') in 0.005138 seconds
+  Import took 0.010118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.065000 seconds.
+  path: Assets/Scenes/day1/mercutio_capuletBase_day1.unity
+  artifactKey: Guid(c3861532ad0325146b10e40e25fa07dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/mercutio_capuletBase_day1.unity using Guid(c3861532ad0325146b10e40e25fa07dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcaf6a7e0aa99ac8b49b918439a0a45a') in 0.004940 seconds
+  Import took 0.009986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.914086 seconds.
+  path: Assets/Scenes/day1/mercutio_montagueBase_day1.unity
+  artifactKey: Guid(261ea1f8f1be9ba4a916e0e361252a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/mercutio_montagueBase_day1.unity using Guid(261ea1f8f1be9ba4a916e0e361252a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b184a68512eb389e2c80eaa4fd8ca9b1') in 0.004897 seconds
+  Import took 0.009908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.145497 seconds.
+  path: Assets/Scenes/day1/capulet_capuletBase_day1 1.unity
+  artifactKey: Guid(0adfbb5ac59fbca4c982f0e9709c3702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/capulet_capuletBase_day1 1.unity using Guid(0adfbb5ac59fbca4c982f0e9709c3702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b0346a2431ca820d4cd8abee707ed9') in 0.005170 seconds
+  Import took 0.023049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.337538 seconds.
+  path: Assets/Scenes/day1/dream_day1.unity
+  artifactKey: Guid(0adfbb5ac59fbca4c982f0e9709c3702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/dream_day1.unity using Guid(0adfbb5ac59fbca4c982f0e9709c3702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd419b7c0c8c9b694fb8105cc115201') in 0.004889 seconds
+  Import took 0.021501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.019830 seconds.
+  path: Assets/Scenes/day1/dream_day1 1.unity
+  artifactKey: Guid(d7038304090e09946873b3b209238b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/dream_day1 1.unity using Guid(d7038304090e09946873b3b209238b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e967d937dfda7f13712d52d964625a') in 0.003949 seconds
+  Import took 0.009685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.990561 seconds.
+  path: Assets/Scenes/day2/dream_day2.unity
+  artifactKey: Guid(d7038304090e09946873b3b209238b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/dream_day2.unity using Guid(d7038304090e09946873b3b209238b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae91bb857be518bec814476de939d3c8') in 0.005320 seconds
+  Import took 0.010516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.273266 seconds.
+  path: Assets/Scenes/day2/dream_day2 1.unity
+  artifactKey: Guid(ed89c440576d60441bb66cf1856351a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day2/dream_day2 1.unity using Guid(ed89c440576d60441bb66cf1856351a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9591bf728e20bca329241b159b3f7328') in 0.004881 seconds
+  Import took 0.014847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.524992 seconds.
+  path: Assets/Scenes/day3/dream_day3.unity
+  artifactKey: Guid(ed89c440576d60441bb66cf1856351a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/dream_day3.unity using Guid(ed89c440576d60441bb66cf1856351a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113c6abbaf86742eeff8f2be5ad1900b') in 0.004886 seconds
+  Import took 0.120038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.901510 seconds.
+  path: Assets/Scenes/day3/dream_day3 1.unity
+  artifactKey: Guid(69b21b79bfb460b4f844cda0666e17a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/dream_day3 1.unity using Guid(69b21b79bfb460b4f844cda0666e17a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9cbc32a24f0da0caf2ee88aac4f3d62') in 0.004918 seconds
+  Import took 0.010165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.867193 seconds.
+  path: Assets/Scenes/day4/dream_day4.unity
+  artifactKey: Guid(69b21b79bfb460b4f844cda0666e17a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/dream_day4.unity using Guid(69b21b79bfb460b4f844cda0666e17a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a3ef5fc3eabadf8aea839a174fec3c') in 0.005234 seconds
+  Import took 0.110930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.757693 seconds.
+  path: Assets/Scenes/day3/capulet_capuletBaseEvening_day3.unity
+  artifactKey: Guid(5ce1b31edc6f5d44b9fafed1af16c7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/capulet_capuletBaseEvening_day3.unity using Guid(5ce1b31edc6f5d44b9fafed1af16c7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc91951405d2e10bb618a7b42d3a2a3') in 0.005072 seconds
+  Import took 0.010225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.943445 seconds.
+  path: Assets/Scenes/day3/mercutio_mercutioHut_day3.unity
+  artifactKey: Guid(26030ac2f3c7a4947949b868a5971cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/mercutio_mercutioHut_day3.unity using Guid(26030ac2f3c7a4947949b868a5971cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bba13afa0f996dc5d604e72d2c631f0') in 0.004946 seconds
+  Import took 0.010038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.045532 seconds.
+  path: Assets/Scenes/day3/capulet_missileSilo_day3.unity
+  artifactKey: Guid(63de777abc121e048a89ee2074d97fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/capulet_missileSilo_day3.unity using Guid(63de777abc121e048a89ee2074d97fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a17cc943c882703f6521d1bece1decc') in 0.004864 seconds
+  Import took 0.009917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.635657 seconds.
+  path: Assets/Scenes/day3/mercutio_missileSilo_day3.unity
+  artifactKey: Guid(178cdb74df3bf244288465d0076bf85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/mercutio_missileSilo_day3.unity using Guid(178cdb74df3bf244288465d0076bf85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26bfa36ad51b5b48fc2af848c194885c') in 0.005083 seconds
+  Import took 0.010077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.329130 seconds.
+  path: Assets/Scenes/day3/montague_missileSilo_day3.unity
+  artifactKey: Guid(98a43d23c3608fc4d8e032c9014666fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/montague_missileSilo_day3.unity using Guid(98a43d23c3608fc4d8e032c9014666fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ff1c6118c376632d233bab9e807a91') in 0.006038 seconds
+  Import took 0.013953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 529.675363 seconds.
+  path: Assets/Scenes/day3/montague_montagueBase_day3.unity
+  artifactKey: Guid(a7309cf08882c394aa6c3d7334910ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/montague_montagueBase_day3.unity using Guid(a7309cf08882c394aa6c3d7334910ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5632493dc6f4d8988440639375570523') in 0.005262 seconds
+  Import took 0.016530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.882684 seconds.
+  path: Assets/Scenes/day3/montague_montagueBaseEvening_day3.unity
+  artifactKey: Guid(d099880dc1aaf644cb886f67b3d20444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/montague_montagueBaseEvening_day3.unity using Guid(d099880dc1aaf644cb886f67b3d20444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9958379a6058dd7fcde44dc031cfb21') in 0.005264 seconds
+  Import took 0.032305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.744106 seconds.
+  path: Assets/Scenes/day3/capulet_ruins_day3.unity
+  artifactKey: Guid(2118918ee1434f64c9ffcd27ca9216d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/capulet_ruins_day3.unity using Guid(2118918ee1434f64c9ffcd27ca9216d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a2257d5eb029a3b6a20a46ce177198') in 0.004875 seconds
+  Import took 0.015207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.016436 seconds.
+  path: Assets/Scenes/day3/knowledgeable_ruins_day3.unity
+  artifactKey: Guid(73abaf88998a556459d8b4e4683c1d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/knowledgeable_ruins_day3.unity using Guid(73abaf88998a556459d8b4e4683c1d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ea0c4c80165ff1da47e2a2d5921c6c') in 0.004940 seconds
+  Import took 0.010547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.271330 seconds.
+  path: Assets/Scenes/day3/knowledgeable_ruins_day3 1.unity
+  artifactKey: Guid(f30cd1ee52a223a42b8541b1e45c6493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/knowledgeable_ruins_day3 1.unity using Guid(f30cd1ee52a223a42b8541b1e45c6493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c922422b2fac31e06c1ebd9efae32c8') in 0.005230 seconds
+  Import took 0.010284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.293864 seconds.
+  path: Assets/Scenes/day3/knowledgeable_capulet_day3 1.unity
+  artifactKey: Guid(f30cd1ee52a223a42b8541b1e45c6493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/knowledgeable_capulet_day3 1.unity using Guid(f30cd1ee52a223a42b8541b1e45c6493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51fab8db816c9f6be9e5c016991b2cf9') in 0.005315 seconds
+  Import took 0.010344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.535503 seconds.
+  path: Assets/Scenes/day3/knowledgeable_capuletBase_day3.unity
+  artifactKey: Guid(f30cd1ee52a223a42b8541b1e45c6493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/knowledgeable_capuletBase_day3.unity using Guid(f30cd1ee52a223a42b8541b1e45c6493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47e5a878e730eee1c1c04551c9aafa0') in 0.006175 seconds
+  Import took 0.034158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.379623 seconds.
+  path: Assets/Scenes/day3/knowledgeable_capuletBase_day3 1.unity
+  artifactKey: Guid(b48f44071daf7b744b91cad71e604f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/knowledgeable_capuletBase_day3 1.unity using Guid(b48f44071daf7b744b91cad71e604f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f9450ffa2db249d3e3674947763a2d') in 0.004714 seconds
+  Import took 0.014568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.122534 seconds.
+  path: Assets/Scenes/day3/knowledgeable_montagueBase_day3.unity
+  artifactKey: Guid(b48f44071daf7b744b91cad71e604f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/knowledgeable_montagueBase_day3.unity using Guid(b48f44071daf7b744b91cad71e604f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e131f3c4f389663a1672f1efa2279a') in 0.004926 seconds
+  Import took 0.010067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.854799 seconds.
+  path: Assets/Scenes/day3/knowledgeable_capuletBaseEvening_day3.unity
+  artifactKey: Guid(f30cd1ee52a223a42b8541b1e45c6493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/knowledgeable_capuletBaseEvening_day3.unity using Guid(f30cd1ee52a223a42b8541b1e45c6493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af3770811ded58787303efe742611ea5') in 0.005078 seconds
+  Import took 0.018937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.802249 seconds.
+  path: Assets/Scenes/day3/knowledgeable_montagueBaseEvening_day3.unity
+  artifactKey: Guid(b48f44071daf7b744b91cad71e604f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/knowledgeable_montagueBaseEvening_day3.unity using Guid(b48f44071daf7b744b91cad71e604f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '703c763dcaccc2d3c12d39293094e92a') in 0.005202 seconds
+  Import took 0.010270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.743423 seconds.
+  path: Assets/Scenes/day3/knowledgeable_capuletBaseEvening_day3 1.unity
+  artifactKey: Guid(5b6fc8e5f4247d848afa9e79b977481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day3/knowledgeable_capuletBaseEvening_day3 1.unity using Guid(5b6fc8e5f4247d848afa9e79b977481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76492796468fe885f9ecde41fa631a20') in 0.005036 seconds
+  Import took 0.020597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.570356 seconds.
+  path: Assets/Scenes/day4/knowledgeable_capuletBase_day4.unity
+  artifactKey: Guid(5b6fc8e5f4247d848afa9e79b977481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_capuletBase_day4.unity using Guid(5b6fc8e5f4247d848afa9e79b977481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08db05cffafb7ee76107cc3f5e2edb13') in 0.005624 seconds
+  Import took 0.011325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.651053 seconds.
+  path: Assets/Scenes/day4/knowledgeable_montagueBaseEvening_day3 1.unity
+  artifactKey: Guid(cc9e2e3bb7100db4aa11a77af73d519d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_montagueBaseEvening_day3 1.unity using Guid(cc9e2e3bb7100db4aa11a77af73d519d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d95ba6d0b59ec39883dc01138f61979') in 0.005237 seconds
+  Import took 0.026418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.707236 seconds.
+  path: Assets/Scenes/day4/knowledgeable_montagueBase_day4.unity
+  artifactKey: Guid(cc9e2e3bb7100db4aa11a77af73d519d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_montagueBase_day4.unity using Guid(cc9e2e3bb7100db4aa11a77af73d519d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9e20ee834d3418bc579407508dd081') in 0.005121 seconds
+  Import took 0.010225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.976769 seconds.
+  path: Assets/Scenes/day4/knowledgeable_montagueBase_day4 1.unity
+  artifactKey: Guid(426f3a9cf78ad104fa4c2b818084f0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_montagueBase_day4 1.unity using Guid(426f3a9cf78ad104fa4c2b818084f0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f99d563fce4e2dcae91da97b3650dad0') in 0.004847 seconds
+  Import took 0.025706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.056693 seconds.
+  path: Assets/Scenes/day4/knowledgeable_montagueBase_day4 2.unity
+  artifactKey: Guid(9b6c00fdecc5b244ea450fd42116e5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_montagueBase_day4 2.unity using Guid(9b6c00fdecc5b244ea450fd42116e5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff062958bbd7a2fda2f2f85c44f9d3d') in 0.004707 seconds
+  Import took 0.009927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.935590 seconds.
+  path: Assets/Scenes/day4/capulet_capuletBase_day4.unity
+  artifactKey: Guid(9b6c00fdecc5b244ea450fd42116e5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/capulet_capuletBase_day4.unity using Guid(9b6c00fdecc5b244ea450fd42116e5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c63a29a8deccfdbb92fd08d19ce575bc') in 0.004981 seconds
+  Import took 0.010092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.851362 seconds.
+  path: Assets/Scenes/day4/montague_montagueBase_day4.unity
+  artifactKey: Guid(426f3a9cf78ad104fa4c2b818084f0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/montague_montagueBase_day4.unity using Guid(426f3a9cf78ad104fa4c2b818084f0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3fb31bda383281ee23e84f256f4f6fe') in 0.005846 seconds
+  Import took 0.010952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.825473 seconds.
+  path: Assets/Scenes/day4/montague_montagueBase_day4 1.unity
+  artifactKey: Guid(4568bce83db64d349b194f2db29d9954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/montague_montagueBase_day4 1.unity using Guid(4568bce83db64d349b194f2db29d9954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277a5bbfaf320a6b136eac7553b1408d') in 0.005628 seconds
+  Import took 0.014222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.612855 seconds.
+  path: Assets/Scenes/day4/capulet_capuletBase_day4 1.unity
+  artifactKey: Guid(caf981cd107566748abd33a01c19c782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/capulet_capuletBase_day4 1.unity using Guid(caf981cd107566748abd33a01c19c782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f33e2fe0c727244254badf63fe1d106d') in 0.004760 seconds
+  Import took 0.036397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.203506 seconds.
+  path: Assets/Scenes/day4/capulet_botanicalGarden_day4.unity
+  artifactKey: Guid(caf981cd107566748abd33a01c19c782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/capulet_botanicalGarden_day4.unity using Guid(caf981cd107566748abd33a01c19c782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06434795035ee06e32889a83c2eafe5') in 0.004924 seconds
+  Import took 0.029574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.866152 seconds.
+  path: Assets/Scenes/day4/montague_botanicalGarden_day4.unity
+  artifactKey: Guid(4568bce83db64d349b194f2db29d9954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/montague_botanicalGarden_day4.unity using Guid(4568bce83db64d349b194f2db29d9954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43325d040208b902948415e84994fef2') in 0.005189 seconds
+  Import took 0.031158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.697644 seconds.
+  path: Assets/Scenes/day4/knowledgeable_montagueBase_day4 1.unity
+  artifactKey: Guid(b57def94e3b7b6a4da65fdbf47b8605f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_montagueBase_day4 1.unity using Guid(b57def94e3b7b6a4da65fdbf47b8605f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a51781067dc9fff5a30a52f652cd7bc8') in 0.001861 seconds
+  Import took 0.026196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.795246 seconds.
+  path: Assets/Scenes/day4/knowledgeable_botanicalGarden_day4.unity
+  artifactKey: Guid(b57def94e3b7b6a4da65fdbf47b8605f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_botanicalGarden_day4.unity using Guid(b57def94e3b7b6a4da65fdbf47b8605f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd381b2a07c9be35dae77dd61e579e0') in 0.005296 seconds
+  Import took 0.010401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.523924 seconds.
+  path: Assets/Scenes/day4/capulet_botanicalGarden_day4 1.unity
+  artifactKey: Guid(42c4479872a16724db6c668328afa917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/capulet_botanicalGarden_day4 1.unity using Guid(42c4479872a16724db6c668328afa917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3014ee4fdd5d1a59d40f0f46f181de0') in 0.004738 seconds
+  Import took 0.035327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.925261 seconds.
+  path: Assets/Scenes/day4/capulet_juliasTower_day4 1.unity
+  artifactKey: Guid(42c4479872a16724db6c668328afa917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/capulet_juliasTower_day4 1.unity using Guid(42c4479872a16724db6c668328afa917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b6a04f353d98ea4810e0fb131b6f29') in 0.005005 seconds
+  Import took 0.010085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.177416 seconds.
+  path: Assets/Scenes/day4/capulet_juliasTower_day4.unity
+  artifactKey: Guid(42c4479872a16724db6c668328afa917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/capulet_juliasTower_day4.unity using Guid(42c4479872a16724db6c668328afa917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e1bba4d33af6ea8317d7ea72220b19') in 0.005592 seconds
+  Import took 0.024914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.656761 seconds.
+  path: Assets/Scenes/day4/knowledgeable_botanicalGarden_day4 1.unity
+  artifactKey: Guid(434587af207922040bedc1a1211152b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_botanicalGarden_day4 1.unity using Guid(434587af207922040bedc1a1211152b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b596256da0fa8cdc286a2ff7f8a927e3') in 0.004976 seconds
+  Import took 0.016635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.829019 seconds.
+  path: Assets/Scenes/day4/knowledgeable_juliasTower_day4 1.unity
+  artifactKey: Guid(434587af207922040bedc1a1211152b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_juliasTower_day4 1.unity using Guid(434587af207922040bedc1a1211152b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d04cec704be9e453931a56f66668e7') in 0.005496 seconds
+  Import took 0.010523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.535331 seconds.
+  path: Assets/Scenes/day4/knowledgeable_juliasTower_day4.unity
+  artifactKey: Guid(434587af207922040bedc1a1211152b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_juliasTower_day4.unity using Guid(434587af207922040bedc1a1211152b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e78799b7186400f2f6536f7d1e0ece4') in 0.004901 seconds
+  Import took 0.029182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.808314 seconds.
+  path: Assets/Scenes/day4/knowledgeable_juliasTower_day4 1.unity
+  artifactKey: Guid(2957f128af3fb50409552ac3cdf59f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/knowledgeable_juliasTower_day4 1.unity using Guid(2957f128af3fb50409552ac3cdf59f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95ae6e97a1fc441f356610e98d37831') in 0.001997 seconds
+  Import took 0.006875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.623691 seconds.
+  path: Assets/Scenes/day4/blind_juliasTower_day4.unity
+  artifactKey: Guid(2957f128af3fb50409552ac3cdf59f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/blind_juliasTower_day4.unity using Guid(2957f128af3fb50409552ac3cdf59f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cedff90be255099263256900f8cbb002') in 0.004899 seconds
+  Import took 0.025607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.189832 seconds.
+  path: Assets/Scenes/day4/montague_montagueBase_day4 1.unity
+  artifactKey: Guid(e18b21f96f7487a4a9d3cdb72904515f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/montague_montagueBase_day4 1.unity using Guid(e18b21f96f7487a4a9d3cdb72904515f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fcf2d374a81020ab75b0a5a31d84ed8') in 0.001875 seconds
+  Import took 0.052958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.471013 seconds.
+  path: Assets/Scenes/day4/montague_juliasTower_day4.unity
+  artifactKey: Guid(426f3a9cf78ad104fa4c2b818084f0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/montague_juliasTower_day4.unity using Guid(426f3a9cf78ad104fa4c2b818084f0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92614c9c82a71c58ee96ea846f0ff8cb') in 0.005255 seconds
+  Import took 0.010562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.203167 seconds.
+  path: Assets/Scenes/day4/montague_montagueBase_day4.unity
+  artifactKey: Guid(e18b21f96f7487a4a9d3cdb72904515f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/montague_montagueBase_day4.unity using Guid(e18b21f96f7487a4a9d3cdb72904515f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '386398e4cc09b5f58f71ea69d758409c') in 0.001986 seconds
+  Import took 0.027388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.202563 seconds.
+  path: Assets/Scenes/day4/montague_juliasTower_day4 1.unity
+  artifactKey: Guid(ccb2463f0d4522a488956e56e7b74a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/montague_juliasTower_day4 1.unity using Guid(ccb2463f0d4522a488956e56e7b74a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd5cf497564527364d1cd081feda2238') in 0.005598 seconds
+  Import took 0.010690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.483183 seconds.
+  path: Assets/Scenes/day4/mercutio_mercutioHut_day4.unity
+  artifactKey: Guid(ccb2463f0d4522a488956e56e7b74a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/mercutio_mercutioHut_day4.unity using Guid(ccb2463f0d4522a488956e56e7b74a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd87d757f1ff47ae17efd9243cb1c15') in 0.004952 seconds
+  Import took 0.012214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.783007 seconds.
+  path: Assets/Scenes/day4/mercutio_mercutioHut_day4 1.unity
+  artifactKey: Guid(b8be3e1da2167444b8ae74ae17ff8cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/mercutio_mercutioHut_day4 1.unity using Guid(b8be3e1da2167444b8ae74ae17ff8cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbf9f69971c8e2d8e4aeff770555f1f') in 0.004772 seconds
+  Import took 0.015358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Scenes/day4/mercutio_mercutioHut_day4 1.unity
+  artifactKey: Guid(b8be3e1da2167444b8ae74ae17ff8cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/mercutio_mercutioHut_day4 1.unity using Guid(b8be3e1da2167444b8ae74ae17ff8cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbf9f69971c8e2d8e4aeff770555f1f') in 0.001957 seconds
+  Import took 0.005788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.040168 seconds.
+  path: Assets/Scenes/day4/mercutio_botanicalGarden_day4.unity
+  artifactKey: Guid(b8be3e1da2167444b8ae74ae17ff8cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/mercutio_botanicalGarden_day4.unity using Guid(b8be3e1da2167444b8ae74ae17ff8cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845f2ee5da089651e1a02ec7021576dc') in 0.006052 seconds
+  Import took 0.011447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.807151 seconds.
+  path: Assets/Scenes/day4/mercutio_botanicalGarden_day4 1.unity
+  artifactKey: Guid(e0c79f1c89971f84bba613f5b9d172c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/mercutio_botanicalGarden_day4 1.unity using Guid(e0c79f1c89971f84bba613f5b9d172c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca026f6bfbca55eb21e7fad4dbfcb12') in 0.004759 seconds
+  Import took 0.038857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.112988 seconds.
+  path: Assets/Scenes/day4/mercutio_juliasTower_day4.unity
+  artifactKey: Guid(e0c79f1c89971f84bba613f5b9d172c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day4/mercutio_juliasTower_day4.unity using Guid(e0c79f1c89971f84bba613f5b9d172c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9da38c835e20d8d7bac9f9a8b7b03f') in 0.004930 seconds
+  Import took 0.010281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2320.697461 seconds.
+  path: Assets/Scenes/locations.unity
+  artifactKey: Guid(744e3502dab5a3a40aeb7099175613fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations.unity using Guid(744e3502dab5a3a40aeb7099175613fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7cb65dc8fd0e956e4f94d1371b2c5da') in 0.005220 seconds
+  Import took 0.011267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.056989 seconds.
+  path: Assets/Scenes/locations
+  artifactKey: Guid(86d5a8c0d3323ae408754e61f26ad07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations using Guid(86d5a8c0d3323ae408754e61f26ad07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9ade9444a80f860af9dad5a43651ec') in 0.004811 seconds
+  Import took 0.013090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.590775 seconds.
+  path: Assets/Scenes/day1/capulet_capuletBase_day1 1.unity
+  artifactKey: Guid(d27fbc1cac45d7242b7e3e5e2a635f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/day1/capulet_capuletBase_day1 1.unity using Guid(d27fbc1cac45d7242b7e3e5e2a635f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0938c548c4909f919d61275a566927') in 0.001843 seconds
+  Import took 0.006699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.364627 seconds.
+  path: Assets/Scenes/locations/capuletBase.unity
+  artifactKey: Guid(d27fbc1cac45d7242b7e3e5e2a635f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/capuletBase.unity using Guid(d27fbc1cac45d7242b7e3e5e2a635f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e287f2c89975d3fb5fc02233dcd5bf65') in 0.005056 seconds
+  Import took 0.010222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.161332 seconds.
+  path: Assets/Scenes/locations/capuletBase 1.unity
+  artifactKey: Guid(120264b377b574142ae6bd6717d583b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/capuletBase 1.unity using Guid(120264b377b574142ae6bd6717d583b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d0eb4563f529d139ced222dfa1870b') in 0.005015 seconds
+  Import took 0.010272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.592303 seconds.
+  path: Assets/Scenes/locations/montagueBase.unity
+  artifactKey: Guid(120264b377b574142ae6bd6717d583b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/montagueBase.unity using Guid(120264b377b574142ae6bd6717d583b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02fde49f85b0fb0596cb697982e4ddd') in 0.005340 seconds
+  Import took 0.010586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.392937 seconds.
+  path: Assets/Scenes/locations/montagueBase 1.unity
+  artifactKey: Guid(46da0e1118f75b5419cf50e6d8caf2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/montagueBase 1.unity using Guid(46da0e1118f75b5419cf50e6d8caf2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0c11e7a3384435b31c79132c867f82') in 0.004657 seconds
+  Import took 0.009629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.221095 seconds.
+  path: Assets/Scenes/locations/capuletBase 1.unity
+  artifactKey: Guid(2a2cc6725b4b8cb46b1264ac19c133b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/capuletBase 1.unity using Guid(2a2cc6725b4b8cb46b1264ac19c133b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feebd55e9ace04ff0d94d9501681c26d') in 0.001853 seconds
+  Import took 0.042019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.378589 seconds.
+  path: Assets/Scenes/locations/mercutioHut.unity
+  artifactKey: Guid(2a2cc6725b4b8cb46b1264ac19c133b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/mercutioHut.unity using Guid(2a2cc6725b4b8cb46b1264ac19c133b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f501e7e650db636acdde1070ccc63f23') in 0.005109 seconds
+  Import took 0.010422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.249120 seconds.
+  path: Assets/Scenes/locations/Junkyard.unity
+  artifactKey: Guid(46da0e1118f75b5419cf50e6d8caf2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/Junkyard.unity using Guid(46da0e1118f75b5419cf50e6d8caf2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca893667fdc8d04c77de6773773589e') in 0.004987 seconds
+  Import took 0.010336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.280151 seconds.
+  path: Assets/Scenes/locations/Junkyard 1.unity
+  artifactKey: Guid(3784028a0d4727548acbb546c8dcc44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/Junkyard 1.unity using Guid(3784028a0d4727548acbb546c8dcc44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ced93a31f3528933bd3b458251e19d') in 0.004744 seconds
+  Import took 0.009825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.118277 seconds.
+  path: Assets/Scenes/locations/missileSilo.unity
+  artifactKey: Guid(3784028a0d4727548acbb546c8dcc44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/missileSilo.unity using Guid(3784028a0d4727548acbb546c8dcc44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ade302bfdce6f0829e61662713d552d') in 0.004906 seconds
+  Import took 0.010037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.890179 seconds.
+  path: Assets/Scenes/locations/Junkyard 1.unity
+  artifactKey: Guid(3a97b29d3181f93489a6cb3908d18bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/Junkyard 1.unity using Guid(3a97b29d3181f93489a6cb3908d18bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b0b5ba9d32dfe42453842a26f639cd1') in 0.001892 seconds
+  Import took 0.006854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.897330 seconds.
+  path: Assets/Scenes/locations/botanicalGarden.unity
+  artifactKey: Guid(3a97b29d3181f93489a6cb3908d18bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/botanicalGarden.unity using Guid(3a97b29d3181f93489a6cb3908d18bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad7a4ce62a87ea22270659e85a819b0') in 0.005104 seconds
+  Import took 0.010403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.719046 seconds.
+  path: Assets/Scenes/locations/botanicalGarden 1.unity
+  artifactKey: Guid(752b21f10b2c0c442b107a809be7c2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/botanicalGarden 1.unity using Guid(752b21f10b2c0c442b107a809be7c2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441c90699dbe66bfdb08cecc37827ad3') in 0.004723 seconds
+  Import took 0.714279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.929288 seconds.
+  path: Assets/Scenes/locations/juliasTower.unity
+  artifactKey: Guid(752b21f10b2c0c442b107a809be7c2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/juliasTower.unity using Guid(752b21f10b2c0c442b107a809be7c2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '530f755c8200663a0f8149e9d34e9b2d') in 0.004978 seconds
+  Import took 0.031792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.035987 seconds.
+  path: Assets/Scenes/locations/missileSilo 1.unity
+  artifactKey: Guid(871e04aa3914a3340811f6a45091aa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/missileSilo 1.unity using Guid(871e04aa3914a3340811f6a45091aa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59dbe343e40c48c84494362ecf5a9c39') in 0.004643 seconds
+  Import took 0.028440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.983294 seconds.
+  path: Assets/Scenes/locations/ruins.unity
+  artifactKey: Guid(871e04aa3914a3340811f6a45091aa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/ruins.unity using Guid(871e04aa3914a3340811f6a45091aa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5ba5d04a298dedef3cd5e5e012d284') in 0.005000 seconds
+  Import took 0.010475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3376.256119 seconds.
+  path: Assets/Scenes/locations/ruins 1.unity
+  artifactKey: Guid(ebf5fe557c330e94d832711a6356a5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/ruins 1.unity using Guid(ebf5fe557c330e94d832711a6356a5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621c4d9f0a26a31fd617196db70e3380') in 0.005072 seconds
+  Import took 0.015637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.978856 seconds.
+  path: Assets/Scenes/locations/dreamscape.unity
+  artifactKey: Guid(ebf5fe557c330e94d832711a6356a5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/dreamscape.unity using Guid(ebf5fe557c330e94d832711a6356a5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd592d961bd3b062cbe42fea6cd9bada8') in 0.005140 seconds
+  Import took 0.024812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.065406 seconds.
+  path: Assets/gameManager.cs
+  artifactKey: Guid(4f43804d641b321478981c3ea2da9b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gameManager.cs using Guid(4f43804d641b321478981c3ea2da9b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6afca1dddaf7286e739c4fe4c7a552b0') in 0.026195 seconds
+  Import took 0.031358 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3400 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.3 MB.
+System memory in use after: 151.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 4026.
+Total: 2.606200 ms (FindLiveObjects: 0.365400 ms CreateObjectMapping: 0.087800 ms MarkObjects: 2.064000 ms  DeleteObjects: 0.088200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001209 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3400 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.4 MB.
+System memory in use after: 151.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 4028.
+Total: 2.741700 ms (FindLiveObjects: 0.485700 ms CreateObjectMapping: 0.083600 ms MarkObjects: 2.082400 ms  DeleteObjects: 0.088800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001233 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.855 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3400 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.4 MB.
+System memory in use after: 151.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 4030.
+Total: 2.646100 ms (FindLiveObjects: 0.411400 ms CreateObjectMapping: 0.083000 ms MarkObjects: 2.058900 ms  DeleteObjects: 0.092100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 503.775293 seconds.
+  path: Assets/Scenes/locations/ruins 1.unity
+  artifactKey: Guid(1192a6d47fb4b5340bcdbb04784bb1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/ruins 1.unity using Guid(1192a6d47fb4b5340bcdbb04784bb1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff72d832e0b39bf48309a69e610521b7') in 0.007439 seconds
+  Import took 0.013517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.104098 seconds.
+  path: Assets/Scenes/locations/origin.unity
+  artifactKey: Guid(1192a6d47fb4b5340bcdbb04784bb1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/locations/origin.unity using Guid(1192a6d47fb4b5340bcdbb04784bb1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7149b555c875cd9760ada8ad924532d') in 0.005020 seconds
+  Import took 0.010276 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
