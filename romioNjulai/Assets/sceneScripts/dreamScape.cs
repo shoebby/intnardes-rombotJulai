@@ -7,25 +7,20 @@ public class dreamScape : MonoBehaviour
     public GameObject dreamNight1;
     public GameObject dreamNight2;
     public GameObject dreamNight3;
-    public GameObject dreamNight4;
 
     void Start()
     {
-        if (gameManager.dayTracker == 1)
+        if (gameManager.dayTracker == 2)
         {
             dreamNight1.SetActive(true);
         }
-        else if (gameManager.dayTracker == 2)
+        else if (gameManager.dayTracker == 4)
         {
             dreamNight2.SetActive(true);
         }
-        else if (gameManager.dayTracker == 3)
+        else if (gameManager.dayTracker == 6)
         {
             dreamNight3.SetActive(true);
-        }
-        else if (gameManager.dayTracker == 4)
-        {
-            dreamNight4.SetActive(true);
         }
     }
 }

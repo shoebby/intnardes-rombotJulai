@@ -6,20 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/testScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/locations/origin.unity
+    guid: 1192a6d47fb4b5340bcdbb04784bb1cf
   - enabled: 1
-    path: Assets/Scenes/energyTestScene.unity
-    guid: 4972d942c5de77e4aaef87ae7bbb587c
-  - enabled: 1
-    path: Assets/Scenes/locations/botanicalGarden.unity
-    guid: 3a97b29d3181f93489a6cb3908d18bfe
+    path: Assets/Scenes/locations/mercutioHut.unity
+    guid: 2a2cc6725b4b8cb46b1264ac19c133b0
   - enabled: 1
     path: Assets/Scenes/locations/capuletBase.unity
     guid: d27fbc1cac45d7242b7e3e5e2a635f4a
   - enabled: 1
+    path: Assets/Scenes/locations/montagueBase.unity
+    guid: 120264b377b574142ae6bd6717d583b1
+  - enabled: 1
     path: Assets/Scenes/locations/dreamscape.unity
     guid: ebf5fe557c330e94d832711a6356a5b1
+  - enabled: 1
+    path: Assets/Scenes/locations/missileSilo.unity
+    guid: 3784028a0d4727548acbb546c8dcc44e
+  - enabled: 1
+    path: Assets/Scenes/locations/botanicalGarden.unity
+    guid: 3a97b29d3181f93489a6cb3908d18bfe
   - enabled: 1
     path: Assets/Scenes/locations/juliasTower.unity
     guid: 752b21f10b2c0c442b107a809be7c2b3
@@ -27,15 +33,12 @@ EditorBuildSettings:
     path: Assets/Scenes/locations/Junkyard.unity
     guid: 46da0e1118f75b5419cf50e6d8caf2f0
   - enabled: 1
-    path: Assets/Scenes/locations/mercutioHut.unity
-    guid: 2a2cc6725b4b8cb46b1264ac19c133b0
-  - enabled: 1
-    path: Assets/Scenes/locations/missileSilo.unity
-    guid: 3784028a0d4727548acbb546c8dcc44e
-  - enabled: 1
-    path: Assets/Scenes/locations/montagueBase.unity
-    guid: 120264b377b574142ae6bd6717d583b1
-  - enabled: 1
     path: Assets/Scenes/locations/ruins.unity
     guid: 871e04aa3914a3340811f6a45091aa5e
+  - enabled: 0
+    path: Assets/Scenes/testScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/energyTestScene.unity
+    guid: 4972d942c5de77e4aaef87ae7bbb587c
   m_configObjects: {}

@@ -27,12 +27,19 @@ public class playerMovement : MonoBehaviour
     public float lerpSpeed;
     float lerpValue = 0f;
 
+    public Sprite standardSprite;
+    private Animator walkAnim;
+    private SpriteRenderer spriteR;
+
     private bool moving;
 
     void Start()
     {
         controller = GetComponent<CharacterController>();
         coll = GetComponent<CapsuleCollider>();
+        walkAnim = GetComponent<Animator>();
+        spriteR = GetComponent<SpriteRenderer>();
+
         lastKeyPressed = KeyCode.S;
     }
 
@@ -42,6 +49,24 @@ public class playerMovement : MonoBehaviour
         {
             float hInput = Input.GetAxis("Horizontal");
             dir.x = hInput * speed;
+
+            if (hInput != 0f || moving)
+            {
+                walkAnim.enabled = true;
+            } else
+            {
+                walkAnim.enabled = false;
+                spriteR.sprite = standardSprite;
+            }
+
+            if (hInput < 0)
+            {
+                spriteR.flipX = true;
+            }
+            else if (hInput > 0)
+            {
+                spriteR.flipX = false;
+            }
 
             if (Grounded())
             {
@@ -82,7 +107,7 @@ public class playerMovement : MonoBehaviour
                     if (lerpValue < 1)
                     {
                         lerpValue += lerpSpeed * Time.deltaTime;
-                        transform.position = Vector3.Lerp(transform.position, newPos, lerpValue);
+                        transform.position = Vector3.MoveTowards(transform.position, newPos, lerpValue);
                     }
                     if (lerpValue >= 1)
                     {
@@ -104,7 +129,7 @@ public class playerMovement : MonoBehaviour
                     if (lerpValue < 1)
                     {
                         lerpValue += lerpSpeed * Time.deltaTime;
-                        transform.position = Vector3.Lerp(transform.position, newPos, lerpValue);
+                        transform.position = Vector3.MoveTowards(transform.position, newPos, lerpValue);
                     }
                     if (lerpValue >= 1)
                     {
@@ -119,6 +144,8 @@ public class playerMovement : MonoBehaviour
         {
             TryInteract();
         }
+
+        
     }
 
     void OnTriggerEnter(Collider other)

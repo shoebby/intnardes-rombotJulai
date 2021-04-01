@@ -169,7 +169,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &6552631128891462355
 RectTransform:
   m_ObjectHideFlags: 0
@@ -647,7 +647,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2077896227385396093
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2292,7 +2292,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &8054267079658663255
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2424,7 +2424,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &8706536814006720972
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2499,7 +2499,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1184915733950921081
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2574,7 +2574,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &224910498005614880
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2642,6 +2642,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3252427474135570535}
   - component: {fileID: 6877397514938939741}
+  - component: {fileID: 7777414528047734927}
   m_Layer: 5
   m_Name: energyMeter
   m_TagString: Untagged
@@ -2686,11 +2687,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5188681b096326647a1af098d37b87fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  energyBars:
-  - {fileID: 3034853377407525418}
-  - {fileID: 3483035770035073948}
-  - {fileID: 5125112352924325766}
+  energyBars: []
   energyChange: 0
+  sceneName: 
+--- !u!114 &7777414528047734927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6208487760221320586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f43804d641b321478981c3ea2da9b00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
   sceneName: 
 --- !u!1 &7873049716232082771
 GameObject:
@@ -2784,7 +2795,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1704346582904175181
 RectTransform:
   m_ObjectHideFlags: 0

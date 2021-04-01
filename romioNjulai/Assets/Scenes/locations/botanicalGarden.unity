@@ -2133,27 +2133,39 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1844546537929763106, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: alias
-      value: 
+      value: Friar Lawrence
       objectReference: {fileID: 0}
     - target: {fileID: 1844546537929763106, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: assignedID
-      value: 82136
+      value: 13226
       objectReference: {fileID: 0}
     - target: {fileID: 1844546537929763106, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: assignedIndex
-      value: 7
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 1844546537929763106, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: assignedDialogue
-      value: fromBotanicalGarden
+      value: lawrence4_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5746681066591753786, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: m_Name
-      value: fromBotanicalGarden
+      value: law4-1
       objectReference: {fileID: 0}
     - target: {fileID: 8536821710646698313, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: m_Name
-      value: fromBotanicalGardenTrigger
+      value: law4-1
       objectReference: {fileID: 0}
     - target: {fileID: 8856100873884892561, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: m_RootOrder
@@ -2161,7 +2173,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8856100873884892561, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.1
+      value: -17.64
       objectReference: {fileID: 0}
     - target: {fileID: 8856100873884892561, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: m_LocalPosition.y

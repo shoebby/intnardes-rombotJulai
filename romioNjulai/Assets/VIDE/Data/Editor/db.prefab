@@ -43,25 +43,71 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 268dc70b105993846a123be43345df63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fileIndex: 10
+  fileIndex: 16
   skinIndex: 4
   loadTag: 
   startID: 0
   curFocusID: 0
-  currentID: 72172
+  currentID: 28264
   autosave: 1
   previewPanning: 0
-  currentDiag: 10
+  currentDiag: 16
   locEdit: 0
   pNodeID: 18
   aNodeID: 8
   S_playerDiags:
-  - commentCount: 1
+  - commentCount: 2
     s_comment:
-    - text: The settlement is outdated, tribalistic, but welcoming nonetheless.
+    - text: 'A wanderer I heard, not from here. '
       extraData: ExtraData
       inputSetIndex: 0
       outputNodeIndex: 1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: 'Well you are certainly welcome. '
+      extraData: ExtraData
+      inputSetIndex: 0
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 0
+    rect:
+      serializedVersion: 2
+      x: 400
+      y: 50
+      width: 348
+      height: 153
+    pTag: Old Stranger
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 3
+    s_comment:
+    - text: "You\u2019ve met Mercutio, my name is Lawrence. In the old world I was
+        a friar, now a simple survivor."
+      extraData: ExtraData
+      inputSetIndex: 1
+      outputNodeIndex: 2
       outActionIndex: -1
       showmore: 0
       outRect:
@@ -73,22 +119,7 @@ MonoBehaviour:
       sprites: {fileID: 0}
       audios: {fileID: 0}
       visible: 1
-    ID: 0
-    rect:
-      serializedVersion: 2
-      x: 90
-      y: 220
-      width: 348
-      height: 154
-    pTag: 
-    expand: 0
-    sprite: {fileID: 0}
-    vars: []
-    varKeys: []
-    isPlayer: 0
-  - commentCount: 4
-    s_comment:
-    - text: The Missile Silo (1 energy)
+    - text: "This hut would also happen to be mine, but you\u2019ve heard that already."
       extraData: ExtraData
       inputSetIndex: 1
       outputNodeIndex: -1
@@ -103,37 +134,7 @@ MonoBehaviour:
       sprites: {fileID: 0}
       audios: {fileID: 0}
       visible: 1
-    - text: Mercutio's Hut (0 energy)
-      extraData: ExtraData
-      inputSetIndex: 1
-      outputNodeIndex: -1
-      outActionIndex: -1
-      showmore: 0
-      outRect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      sprites: {fileID: 0}
-      audios: {fileID: 0}
-      visible: 1
-    - text: The Origin (1 energy)
-      extraData: ExtraData
-      inputSetIndex: 1
-      outputNodeIndex: -1
-      outActionIndex: -1
-      showmore: 0
-      outRect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      sprites: {fileID: 0}
-      audios: {fileID: 0}
-      visible: 1
-    - text: Comment...
+    - text: If my old eyes do not deceive me, you're carrying some burning questions.
       extraData: ExtraData
       inputSetIndex: 1
       outputNodeIndex: -1
@@ -151,15 +152,974 @@ MonoBehaviour:
     ID: 1
     rect:
       serializedVersion: 2
-      x: 450
-      y: 220
+      x: 400
+      y: 200
       width: 348
-      height: 201
+      height: 252
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Thank you for your hospitality, I do not have a name as far as I can
+        remember.
+      extraData: ExtraData
+      inputSetIndex: 2
+      outputNodeIndex: 3
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 2
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 50
+      width: 348
+      height: 154
+    pTag: You
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Might there be something you do remember?
+      extraData: ExtraData
+      inputSetIndex: 3
+      outputNodeIndex: 4
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 3
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 210
+      width: 348
+      height: 139
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Only that I must go somewhere, where someone dear to me await my arrival.
+      extraData: ExtraData
+      inputSetIndex: 4
+      outputNodeIndex: 5
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 4
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 360
+      width: 348
+      height: 154
+    pTag: You
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: The friar laughs to himself, surprised by your romanticism in this broken
+        world.
+      extraData: ExtraData
+      inputSetIndex: 5
+      outputNodeIndex: 6
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 5
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 520
+      width: 348
+      height: 154
+    pTag: Narrator
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 2
+    s_comment:
+    - text: A real Romeo before me, refreshing surely.
+      extraData: ExtraData
+      inputSetIndex: 6
+      outputNodeIndex: 7
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Then by my decree as a man of god, I shall baptise you as 'Romeo', sounds
+        good?
+      extraData: ExtraData
+      inputSetIndex: 6
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 6
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 680
+      width: 348
+      height: 188
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Hah! Very well, I'll just assume this Romeo fellow is a pleasant one
+        to be around.
+      extraData: ExtraData
+      inputSetIndex: 7
+      outputNodeIndex: 8
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 7
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 870
+      width: 348
+      height: 154
+    pTag: Romeo
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 2
+    s_comment:
+    - text: Very much so...
+      extraData: ExtraData
+      inputSetIndex: 8
+      outputNodeIndex: 9
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: But, questions. You had them, I might be able to give some answers. Shoot.
+      extraData: ExtraData
+      inputSetIndex: 8
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 8
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 1030
+      width: 348
+      height: 178
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 3
+    s_comment:
+    - text: What are you doing here?
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: 10
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Who are you exactly?
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: 11
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 87
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Thank you for your answers Lawrence.
+      extraData: ExtraData
+      inputSetIndex: 9
+      outputNodeIndex: 12
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 111
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 9
+    rect:
+      serializedVersion: 2
+      x: 1210
+      y: 350
+      width: 348
+      height: 187
     pTag: 
     expand: 0
     sprite: {fileID: 0}
     vars: []
     varKeys: []
     isPlayer: 1
-  S_actionNodes: []
+  - commentCount: 4
+    s_comment:
+    - text: "I\u2019ve built this hut some time after..."
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: 14
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: The dust clouds parted.
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "It is safe here, but it isn\u2019t what home used to be."
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Green trees, huts made of stone and glass, and no rubble too.
+      extraData: ExtraData
+      inputSetIndex: 10
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 10
+    rect:
+      serializedVersion: 2
+      x: 1660
+      y: -20
+      width: 348
+      height: 221
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 3
+    s_comment:
+    - text: You know my name, and you know young man Mercutio.
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: 18
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "I\u2019ve lived here since long, and I survive thanks to the food Mercutio
+        and I can scavenge from the area."
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: His trading mainly keeps us fed though.
+      extraData: ExtraData
+      inputSetIndex: 11
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 11
+    rect:
+      serializedVersion: 2
+      x: 1630
+      y: 410
+      width: 348
+      height: 237
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: You're more than welcome Romeo, stay safe.
+      extraData: ExtraData
+      inputSetIndex: 12
+      outputNodeIndex: 13
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 12
+    rect:
+      serializedVersion: 2
+      x: 1210
+      y: 540
+      width: 348
+      height: 139
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: You too, friar. Mercutio and I will be off then.
+      extraData: ExtraData
+      inputSetIndex: 13
+      outputNodeIndex: -1
+      outActionIndex: 0
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 13
+    rect:
+      serializedVersion: 2
+      x: 1210
+      y: 680
+      width: 348
+      height: 139
+    pTag: Romeo
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Lawrence lets out an exasperated sigh.
+      extraData: ExtraData
+      inputSetIndex: 14
+      outputNodeIndex: 15
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 14
+    rect:
+      serializedVersion: 2
+      x: 1660
+      y: 200
+      width: 348
+      height: 139
+    pTag: Narrator
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 2
+    s_comment:
+    - text: There used to be more people as well, but they vanished with the other
+        things.
+      extraData: ExtraData
+      inputSetIndex: 15
+      outputNodeIndex: 16
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: But that was before.
+      extraData: ExtraData
+      inputSetIndex: 15
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 15
+    rect:
+      serializedVersion: 2
+      x: 2020
+      y: -20
+      width: 348
+      height: 178
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: ... Was before.. What?
+      extraData: ExtraData
+      inputSetIndex: 16
+      outputNodeIndex: 17
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 16
+    rect:
+      serializedVersion: 2
+      x: 2020
+      y: 160
+      width: 348
+      height: 129
+    pTag: Romeo
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 6
+    s_comment:
+    - text: Before was another time.
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: 9
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: You see, something happened.
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: A grand event, expelled from the sky, birthed the world we are in now.
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: And why? Does anyone know?
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Young Mercutio here has started his own search, but me?
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "I\u2019d rather keep the past buried as it is. Speak with him, he might
+        tell you a thing, or 20."
+      extraData: ExtraData
+      inputSetIndex: 17
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 17
+    rect:
+      serializedVersion: 2
+      x: 2380
+      y: -20
+      width: 348
+      height: 309
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Who do you trade with?
+      extraData: ExtraData
+      inputSetIndex: 18
+      outputNodeIndex: 19
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 23
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 18
+    rect:
+      serializedVersion: 2
+      x: 2000
+      y: 420
+      width: 348
+      height: 129
+    pTag: Romeo
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 4
+    s_comment:
+    - text: The houses, they both have their settlements nearby.
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: 20
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: It is a safe place to live, and they are well armed, both of them.
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "They aren\u2019t exactly on speaking terms with one another, but they're
+        all quite fond of Mercutio."
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Hence he trades with them, and they pay well.
+      extraData: ExtraData
+      inputSetIndex: 19
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 19
+    rect:
+      serializedVersion: 2
+      x: 2360
+      y: 420
+      width: 348
+      height: 256
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 1
+    s_comment:
+    - text: Rolling on your own like this seems risky. Why are you not living with
+        one of the houses?
+      extraData: ExtraData
+      inputSetIndex: 20
+      outputNodeIndex: 21
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 20
+    rect:
+      serializedVersion: 2
+      x: 2740
+      y: 420
+      width: 348
+      height: 154
+    pTag: Romeo
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  - commentCount: 4
+    s_comment:
+    - text: "I\u2019m not like them, Mercutio isn\u2019t either. Living here means
+        not having to pick a side."
+      extraData: ExtraData
+      inputSetIndex: 21
+      outputNodeIndex: 9
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 30
+        height: 48
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: We can be ourselves here, and that is just fine for us.
+      extraData: ExtraData
+      inputSetIndex: 21
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: And, well, they are sort of fanatical in their respective beliefs.
+      extraData: ExtraData
+      inputSetIndex: 21
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: "If you go with Mercutio, you\u2019ll see what I mean."
+      extraData: ExtraData
+      inputSetIndex: 21
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 21
+    rect:
+      serializedVersion: 2
+      x: 2740
+      y: 580
+      width: 348
+      height: 256
+    pTag: Friar Lawrence
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 0
+  S_actionNodes:
+  - pauseHere: 0
+    gameObjectName: energyMeter
+    methodName: ChangeScene
+    nameIndex: 2
+    methodIndex: 2
+    paramIndex: 2
+    opts:
+    - '[No method]'
+    - ChangePrice
+    - ChangeScene
+    - LowerEnergy
+    nameOpts:
+    - '[No object]'
+    - UIMANAGER
+    - energyMeter
+    - TriggerMerc
+    - CM vcam1
+    - mainCamera
+    param_bool: 0
+    param_string: capuletBase
+    param_int: 0
+    param_float: 0
+    rect:
+      serializedVersion: 2
+      x: 1290
+      y: 830
+      width: 200
+      height: 190
+    ID: 22
+    outPlayerIndex: -1
+    outActionIndex: -1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
   S_selNodes: []
