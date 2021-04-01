@@ -625,11 +625,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1844546537929763106, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: assignedIndex
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1844546537929763106, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: assignedDialogue
       value: dream2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2820467813486841659, guid: a48175097877bff49b24303cbab508ee, type: 3}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5746681066591753786, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: m_Name
@@ -713,6 +733,10 @@ PrefabInstance:
       propertyPath: assignedDialogue
       value: dream1
       objectReference: {fileID: 0}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2658004059351944225, guid: a48175097877bff49b24303cbab508ee, type: 3}
     - target: {fileID: 5746681066591753786, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: m_Name
       value: dream1
@@ -1155,6 +1179,10 @@ PrefabInstance:
       propertyPath: assignedDialogue
       value: dream3
       objectReference: {fileID: 0}
+    - target: {fileID: 3542954386105040243, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -7593756943831544983, guid: a48175097877bff49b24303cbab508ee, type: 3}
     - target: {fileID: 5746681066591753786, guid: 7f298d8794f57e44ca49b82ae80262c0, type: 3}
       propertyPath: m_Name
       value: dream3
@@ -1339,7 +1367,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1630194983}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eeaee976f3f569041a337e83e18add52, type: 3}
   m_Name: 
@@ -1565,7 +1593,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2127711129
 Transform:
   m_ObjectHideFlags: 0
